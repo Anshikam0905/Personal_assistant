@@ -1,4 +1,4 @@
-# Personal_assistant
+
 # Personal Assistant - AI Chatbot (Django + Hugging Face Model)
 A simple AI-powered personal assistant built using Django, Python, and Hugging Face Transformer models.
 The assistant runs completely using Hugging Face—no OpenAI key required.
